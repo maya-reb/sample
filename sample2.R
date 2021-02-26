@@ -5,3 +5,5 @@ c("apple", "pear", "banana")
 "orange"
 
 "adding stuff"
+
+"tomato"
